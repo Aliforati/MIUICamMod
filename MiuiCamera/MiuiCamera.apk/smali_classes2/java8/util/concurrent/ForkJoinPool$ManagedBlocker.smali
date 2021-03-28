@@ -1,0 +1,22 @@
+.class public interface abstract Ljava8/util/concurrent/ForkJoinPool$ManagedBlocker;
+.super Ljava/lang/Object;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Ljava8/util/concurrent/ForkJoinPool;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "ManagedBlocker"
+.end annotation
+
+
+# virtual methods
+.method public abstract block()Z
+.end method
+
+.method public abstract isReleasable()Z
+.end method

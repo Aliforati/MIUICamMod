@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_ai_identify">Recognise</string>
+    <string name="accessibility_color">Colour</string>
+    <string name="ai_scene_mode_use_hint_text">"Recognise scenes using AI
+and adjust preferences automatically"</string>
+    <string name="camera_error_title">Camera Error</string>
+    <string name="color_enhance_mode">Enhanced colours</string>
+    <string name="config_name_group">Group selfie</string>
+    <string name="config_name_hht">HHT</string>
+    <string name="config_name_magic">Magic</string>
+    <string name="config_name_mimovie">Movie frame</string>
+    <string name="config_name_scene">Scene</string>
+    <string name="config_name_setting">Settings</string>
+    <string name="config_name_sound">Audio</string>
+    <string name="config_name_straighten">Straighten</string>
+    <string name="config_name_super_resolution">Super resolution</string>
+    <string name="config_name_tilt">Tilt-shift</string>
+    <string name="config_name_timer">Timer</string>
+    <string name="confirm_location_message">&lt;Data>Welcome to Camera! Tagging your photos and videos with the locations where they are taken will make your Gallery more organised and help you find items faster. Some features might not be available if you restrict adding location info.&lt;br/>&lt;br/>We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;/Data></string>
+    <string name="cta_mimoji_user_links">&lt;Data>Read and agree to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a> before using this app.&lt;/Data></string>
+    <string name="cta_user_tips">&lt;Data>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>.&lt;/Data></string>
+    <string name="custom_tint_color_select">Customise colours</string>
+    <string name="live_music_author_unknown">未知艺术家</string>
+    <string name="live_music_cut_prompt">选取配乐片段</string>
+    <string name="mimoji_detect_haircolor_failed">"Couldn't detect hair colour"</string>
+    <string name="mimoji_detect_skincolor_failed">"Couldn't detect skin colour"</string>
+    <string name="network_access_user_notice_message_live_video">"&lt;Data>Camera needs to connect to the internet to provide effects, music, and other features for short videos.&lt;br/>&lt;br/>By tapping \"Agree\" below, you're agreeing to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>, and allowing Camera to connect to the internet.&lt;/Data>"</string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>Welcome to short videos! Our service needs to connect to the network to provide you with music and other features. &lt;br/>&lt;br/>Before using our service, you need to read and agree to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>, as well as allow the app to connect to the internet.&lt;/Data></string>
+    <string name="network_access_user_notice_message_sticker">"&lt;Data>Camera needs to connect to the internet to provide stickers for this feature.&lt;br/>&lt;br/>By tapping \"Agree\" below, you're agreeing to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>, and allowing Camera to connect to the internet.&lt;/Data>"</string>
+    <string name="network_access_user_notice_message_voice_caption">"&lt;Data>Camera needs to connect to the internet to provide speech-to-text output functionality.&lt;br/>&lt;br/>By tapping \"Agree\" below, you're agreeing to our &lt;a href =%1$s>User Agreement&lt;/a> and &lt;a href =%2$s>Privacy Policy&lt;/a>, and allowing Camera to connect to the internet.&lt;/Data>"</string>
+    <string name="parameter_manual_picturestyle_description">Saturation allows you to control the depth and intensity of colours, adjusting contrast brings out or minimises the difference between light and dark, and sharpness renders the details along the outlines.</string>
+    <string name="parameter_metering_description">Average metering takes into account all areas of your image, working best for evenly lit scenes. Centre-weighted metering mainly focuses on the central area of the frame and gives due consideration to the brightness of the surrounding area, which is suitable for shooting subjects in the centre of the frame. Spot metering only covers the area in one spot, giving you precise control over the exposure.</string>
+    <string name="pref_camera_autoexposure_entry_centerweighted">Centre weighted</string>
+    <string name="pref_camera_coloreffect_entry_instagram_clarendon">Colour focus</string>
+    <string name="pref_camera_movie_solid_title">Image stabilisation</string>
+    <string name="pref_custom_tint_title">Colours</string>
+    <string name="pref_customization_title">Customise</string>
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Optimise colours for 4K (HDR10+) and 8K (HDR10) videos. This feature only works on HDR10+/HDR10 compatible devices.</string>
+    <string name="pref_hdr10_video_mode_description">Optimise colours and contrast for 4K and 8K videos automatically. Optimised videos can only be played on HDR10 compatible devices.</string>
+    <string name="pref_hdr10plus_video_mode_description">Optimise colours and adjust contrast for 4K and 8K videos. This feature only works on HDR10+ compatible devices.</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="pro_color_mode">Pro colour</string>
+    <string name="super_night_hint">Optimising image… Keep your device stable.</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
+    <string name="user_notice_identify_summary_format">Before using Camera, you must agree to our <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">User Agreement</a> and <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Privacy Policy</a>. Camera also needs to connect to the internet to work normally. Agree?</string>
+    <string name="video_bokeh_color_point">Colour spots</string>
+    <string name="video_effect_entry_color_retention">Colour focus</string>
+</resources>

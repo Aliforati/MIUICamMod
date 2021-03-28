@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen/remote_online_setup_wizard_screen_unfind_remote_camera_bg_height" android:width="@dimen/remote_online_setup_wizard_screen_unfind_remote_camera_bg_width" android:drawable="@drawable/remote_online_circular_background" />
+    <item android:gravity="center|right|top" android:drawable="@drawable/remote_online_alert_icon" />
+    <item android:gravity="center" android:drawable="@drawable/ic_remote_camera_bg" />
+</layer-list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/config_reference_line_golden_spiral_height_size" android:width="@dimen/config_reference_line_golden_spiral_width_size" android:viewportWidth="37.0" android:viewportHeight="42.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M20.1903,18.415C20.389,19.089 20.5151,19.8041 20.389,20.6028C19.9128,23.0738 16.9697,25.9548 12.1429,25.6943C6.6882,25.2954 3.4,20.5044 3.4,15.2827C3.4,7.8478 10.5461,3.2 17.1423,3.2C27.6968,3.2 34,11.9317 34,20.0061C34,26.8376 30.0718,32.008 25.4935,34.9659C21.0535,37.8344 16.2645,38.6575 11.6729,39" android:strokeColor="#ffffffff" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="evenOdd" />
+</vector>

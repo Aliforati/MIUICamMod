@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/remote_online_setup_wizard_screen_ic_remote_camera_bg_height" android:width="@dimen/remote_online_setup_wizard_screen_ic_remote_camera_bg_width" android:viewportWidth="80.0" android:viewportHeight="80.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M18.7288,12.1082L22.3323,6.4972C23.4361,4.7786 25.3383,3.7396 27.3808,3.7396L52.6192,3.7396C54.6617,3.7396 56.5639,4.7786 57.6677,6.4972L61.2712,12.1082C62.375,13.8268 64.2772,14.8659 66.3197,14.8659L73.3488,14.8659C76.6625,14.8659 79.3488,17.5522 79.3488,20.8659L79.3488,66.2604C79.3488,69.5741 76.6625,72.2604 73.3488,72.2604L6.6512,72.2604C3.3375,72.2604 0.6512,69.5741 0.6512,66.2604L0.6512,20.8659C0.6512,17.5522 3.3375,14.8659 6.6512,14.8659L13.6803,14.8659C15.7228,14.8659 17.625,13.8268 18.7288,12.1082Z" android:fillType="evenOdd" />
+</vector>
